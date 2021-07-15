@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/779</dc:source>
 		<dc:source>https://archive.org/details/christophermarl00elligoog</dc:source>
-		<meta property="se:production-notes">This version was based on Guttenberg's transcription of Dyce but updated to reflect Ellis’ later edition. Stage directions were moved onto their own lines unless they were meant to be inline with dialogue.</meta>
+		<meta property="se:production-notes">This version was based on Gutenberg's transcription of Dyce but updated to reflect Ellis’ later edition. Stage directions were moved onto their own lines unless they were meant to be inline with dialogue.</meta>
 		<meta property="se:word-count">12910</meta>
 		<meta property="se:reading-ease.flesch">73.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Doctor_Faustus_(play)</meta>
